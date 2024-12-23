@@ -4,7 +4,7 @@
 
 **Description du projet:**
 
-Le projet Canalyse 2025 a pour ambition de développer une plateforme web spécialisée dans la collecte et l'analyse des problèmes rencontrés lors de la Coupe d'Afrique des Nations organisée au Maroc. Cette initiative a pour objectif principal d'extraire et de synthétiser des informations pertinentes afin d'éviter la répétition de ces problèmes lors de la Coupe du Monde 2030, également prévue au Maroc. Le présent rapport offre un aperçu détaillé des activités menées et des résultats obtenus par chacune des cellules impliquées dans la réalisation de ce projet, mettant en lumière les efforts conjoints et les démarches entreprises pour atteindre les objectifs fixés.
+Le projet Canalyse 2025 a pour ambition de développer une plateforme web spécialisée dans la collecte et l'analyse des problèmes rencontrés lors de la Coupe d'Afrique des Nations organisée au Maroc. Cette initiative a pour objectif principal d'extraire et de synthétiser des informations pertinentes afin d'éviter la répétition de ces problèmes lors de la Coupe du Monde 2030, également prévue au Maroc. 
 
 **Structure du projet:**
 
@@ -39,4 +39,4 @@ Pour plus d'informations sur l'installation, l'utilisation et la maintenance de 
 
 **Contact:**
 
-Pour toute question ou commentaire concernant le projet Canalyse 2025, veuillez contacter [abdeladimebenali2003gmail.com].
+Pour toute question ou commentaire concernant le projet Canalyse 2025, veuillez contacter [nabiladouma23@gmail.com].
